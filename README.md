@@ -1,0 +1,2 @@
+# Multivariate-Experiments-Driven-Product-Strategy-Optimization-for-Banking-Products
+Data-driven project applying Business Experiments &amp; Analytics and Lean Six Sigma (DMADV) to optimize Fixed Deposit products. Uses conjoint analysis and statistical validation to understand customer preferences, redesign FD features, and improve customer satisfaction for banking products in Pune across demographics.
